@@ -30,5 +30,10 @@ metadata = {
         'gender': 'male',
         'accent': 'DEU/German',
         'language': 'english'
+    },
+    'ilhan': {
+        'gender': 'male',
+        'accent': 'TR/Turkish',
+        'language': 'english'
     }
 }
